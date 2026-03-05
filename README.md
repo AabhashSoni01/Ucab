@@ -3,7 +3,7 @@ UCab is a full-stack web application for booking cabs online. Users can browse a
 
 # ✨ Features
  ** User Side **
- • Register and log in securely  
+  • Register and log in securely  
 • Browse cabs with arrival time estimates, ratings, and pricing
 • Filter by category (Mini, Sedan, SUV, Luxury, Auto) and sort by ETA, price, or rating
 • Book a ride in 3 steps — trip details, extras, and payment
