@@ -18,9 +18,10 @@ UCab is a full-stack web application for booking cabs online. Users can browse a
 • Manage all users — edit, deactivate, or delete (cascade deletes their bookings)  
 • Add, edit, and remove cabs with image upload  
 • View and control all bookings with one-click actions:  
-    • Confirm a pending booking  
-    • Start Ride — sets status to In Progress and notifies the user instantly  
-    • Complete Ride — concludes the ride, marks payment as paid, and notifies the user  
-    • Cancel any active booking  
+
+  • Confirm a pending booking  
+  • Start Ride — sets status to In Progress and notifies the user instantly  
+  • Complete Ride — concludes the ride, marks payment as paid, and notifies the user  
+  • Cancel any active booking  
 • Dashboard with live stats — total users, cabs, bookings, revenue  
 
