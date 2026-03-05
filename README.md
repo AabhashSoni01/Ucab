@@ -24,3 +24,6 @@ UCab is a full-stack web application for booking cabs online. Users can browse a
   ◦ Cancel any active booking  
 • Dashboard with live stats — total users, cabs, bookings, revenue  
 
+# ⏱️ Real-Time  
+• Socket.IO pushes ride status updates directly to the user's browser the moment admin acts  
+• Users see toast notifications and their dashboard updates without refreshing  
