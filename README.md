@@ -29,10 +29,10 @@ UCab is a full-stack web application for booking cabs online. Users can browse a
 • Users see toast notifications and their dashboard updates without refreshing  
 
 # 🛠 Tech Stack  
-• Frontend: React 18, Vite, React Router v6  
-• Backend: Node.js, Express  
-• Database: MongoDB, Mongoose  
-• Auth: JWT, bcryptjs  
-• Real-time: Socket.IO  
-• File Upload: Multer  
-• HTTP Client: Axios
+• **Frontend:**  React 18, Vite, React Router v6  
+• **Backend:**  Node.js, Express  
+• **Database:**  MongoDB, Mongoose  
+• **Auth:**  JWT, bcryptjs  
+• **Real-time:**  Socket.IO  
+• **File Upload:**  Multer  
+• **HTTP Client:**  Axios
